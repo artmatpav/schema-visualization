@@ -15,7 +15,7 @@ sfdx force:source:push   (use -f if you have conflicts and you want to overwrite
 **Then open your org with next command:**
 sfdx force:org:open
 
-**If you use IntelliJ Idea:**
+**Display LWC in LEX:**
 *      Select Sales in Apps menu
 *      Click gear icon
 *      Edit Page
